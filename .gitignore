@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Debate exports (generated at runtime)
+*.md.export
+debate_*.md
